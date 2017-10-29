@@ -1,0 +1,11 @@
+@media screen and (min-width: 1080px) {
+    .hamb-menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .list_menu {
+        display: none;
+    }
+}
